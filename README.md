@@ -10,8 +10,7 @@ part orientation, and a 3D view of the layout. Handles the real-world gotchas:
 liners, layer pads, per-part wrap, and box weight ratings (which for steel
 parts usually bind before volume does).
 
-**▶ Try it live:** once GitHub Pages is enabled on this repo, the app runs at
-`https://<your-username>.github.io/<repo-name>/` — no install, no upload to any
+**▶ Try it live:** **https://p-1-k-e-m-1-n.github.io/boxel/** — no install, no upload to any
 server. Your CAD file never leaves your browser; all computation is local
 JavaScript + WebAssembly.
 
